@@ -4,7 +4,7 @@ FilMere is a responsive movie search web application built using **HTML**, **CSS
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the hosted app]([https://gateremark.vercel.app/](https://movie-search-webapp-six.vercel.app/))
+🌐 https://movie-search-webapp-six.vercel.app/
 
 ## 📷 Preview
 
